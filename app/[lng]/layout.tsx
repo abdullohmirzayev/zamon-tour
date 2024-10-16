@@ -2,13 +2,19 @@ import type { Metadata } from 'next'
 import { Poppins } from 'next/font/google'
 import './globals.css'
 import { ChildProps } from '@/types'
-import { ThemeProvider } from '../components/providers/theme.provider'
+import { ThemeProvider } from '@/components/providers/theme.provider'
+import { languages } from '@/i18n/settings'
+import { dir } from 'i18next'
 
 const poppins = Poppins({
 	subsets: ['latin'],
 	weight: ['100', '300', '400', '500', '700', '900'],
 	variable: '--font-poppins',
 })
+
+export async function generateStaticParams() {
+	return languages.map(lng => ({ lng }))
+}
 
 export const metadata: Metadata = {
 	title: 'Zamon Busniess tour',
@@ -17,9 +23,13 @@ export const metadata: Metadata = {
 	icons: { icon: '/icon.svg' },
 }
 
-function RootLayout({ children }: ChildProps) {
+interface Props extends ChildProps {
+	params: { lng: string }
+}
+
+function RootLayout({ children, params: { lng } }: Props) {
 	return (
-		<html lang='en' suppressHydrationWarning>
+		<html lang={lng} dir={dir(lng)} suppressHydrationWarning>
 			<body
 				className={`${poppins.variable} overflow-x-hidden`}
 				suppressHydrationWarning
