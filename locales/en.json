@@ -1,3 +1,6 @@
 {
-	"home": "Home EN"
+	"navLink1": "Home",
+	"navLink2": "About",
+	"navLink3": "Types",
+	"navLink4": "Contact"
 }
