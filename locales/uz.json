@@ -2,5 +2,16 @@
 	"navLink1": "Bosh sahifa",
 	"navLink2": "Biz haqimizda",
 	"navLink3": "Turlar",
-	"navLink4": "Aloqa"
+	"navLink4": "Aloqa",
+	"hero_country1": "Istanbul",
+	"hero_country2": "Antalya",
+	"hero_country3": "Dubai",
+	"hero_country4": "Sharm El-Sheikh",
+	"hero_main_title": "Siz yoqtirib qolishingiz aniq bo'lgan shahar:",
+	"hero_btn": "Borishni Xohlaysizmi?",
+	"hero_info1": "Aholisi:",
+	"hero_info2": "Hudud:",
+	"hero_info3": "O'rtacha narx:",
+
+	"explore_btn": "Ko'proq bilish.."
 }

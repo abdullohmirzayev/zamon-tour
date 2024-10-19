@@ -2,5 +2,16 @@
 	"navLink1": "Anasayfa",
 	"navLink2": "Hakkımızda",
 	"navLink3": "Türler",
-	"navLink4": "İletişim"
+	"navLink4": "İletişim",
+	"hero_country1": "İstanbul",
+	"hero_country2": "Antalya",
+	"hero_country3": "Dubai",
+	"hero_country4": "Şarm El-Şeyh",
+	"hero_main_title": "Şehrin Güzel Şehrine Bir Bakış Atın:",
+	"hero_btn": "Oraya Git",
+	"hero_info1": "Nüfus:",
+	"hero_info2": "Bölge:",
+	"hero_info3": "ORT Fiyat:",
+	
+	"explore_btn": "Daha Fazlasını Keşfedin"
 }

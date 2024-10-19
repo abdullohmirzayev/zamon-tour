@@ -2,5 +2,16 @@
 	"navLink1": "Главная",
 	"navLink2": "O нас",
 	"navLink3": "Типы",
-	"navLink4": "Контакты"
+	"navLink4": "Контакты",
+	"hero_country1": "Стамбул",
+	"hero_country2": "Анталья",
+	"hero_country3": "Дубай",
+	"hero_country4": "Шарм-эль-Шейх",
+	"hero_main_title": "Загляните в красивый город:",
+	"hero_btn": "Перейти",
+	"hero_info1": "Население:",
+	"hero_info2": "Территория:",
+	"hero_info3": "Средняя цена:",
+	
+	"explore_btn": "Узнать больше"
 }
