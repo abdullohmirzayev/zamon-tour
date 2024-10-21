@@ -23,9 +23,23 @@
 	"weekly_country4": "European Union",
 	"weekly_person": "person",
 	"weekly_check": "Check Ins",
-	"weekly_inc": "Deal Includes:",
-	"weekly_inc1": "5 Days Trip > Hotel included",
-	"weekly_inc2": "Airplane Bill included",
-	"weekly_inc3": "Daily places Visit",
-	"weekly_btn": "Make A Reservation"
+	"weekly_info": "Deal Includes:",
+	"weekly_info1": "5 Days Trip > Hotel included",
+	"weekly_info2": "Airplane Bill included",
+	"weekly_info3": "Daily places Visit",
+	"weekly_btn": "Make A Reservation",
+
+	"visa_title": "Visa support",
+	"visa_subtitle": "Experience stress-free travel with our expert visa support. We provide seamless assistance and comprehensive guidance, ensuring a smooth journey",
+	"visa_country1": "European(Schengen)",
+	"visa_country2": "India",
+	"visa_country3": "Japan",
+	"visa_country4": "Saudi Arabia",
+	"visa_country5": "Oman",
+	"visa_country6": "China",
+	"visa_country7": "Hong Kong",
+	"visa_info": "Benefits of our Visa Support service:",
+	"visa_info1": "Best Prices",
+	"visa_info2": "Short Processing Time",
+	"visa_info3": "Trustworthy Assistance"
 }

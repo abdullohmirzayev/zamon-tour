@@ -22,9 +22,23 @@
 	"weekly_country4": "European Union",
 	"weekly_person": "kishi",
 	"weekly_check": "buyurtmalar",
-	"weekly_inc": "Tur o'z ichiga oladi:",
-	"weekly_inc1": "5 kun sayohat > Mehmonxona",
-	"weekly_inc2": "Aviabiliet",
-	"weekly_inc3": "Eng yaxshi manzillar",
-	"weekly_btn": "Joy Band Qilish"
+	"weekly_info": "Tur o'z ichiga oladi:",
+	"weekly_info1": "5 kun sayohat > Mehmonxona",
+	"weekly_info2": "Aviabiliet",
+	"weekly_info3": "Eng yaxshi manzillar",
+	"weekly_btn": "Joy Band Qilish",
+
+	"visa_title": "Viza olishga yordam beramiz",
+	"visa_subtitle": "Biz sizga oson, tez fursatda va albatta ishonchli viza olishga yordam beramiz.",
+	"visa_country1": "Yevropa (Shengen)",
+	"visa_country2": "Hindiston",
+	"visa_country3": "Yaponiya",
+	"visa_country4": "Saudiya Arabistoni",
+	"visa_country5": "Omon",
+	"visa_country6": "Xitoy",
+	"visa_country7": "Xong Kong",
+	"visa_info": "Bizning xizmatlar oz ichiga oladi:",
+	"visa_info1": "Eng arzon narx",
+	"visa_info2": "Tezkor ishlash vaqtt",
+	"visa_info3": "Ishinchli yordam"
 }

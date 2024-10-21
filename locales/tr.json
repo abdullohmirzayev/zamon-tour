@@ -22,9 +22,23 @@
 	"weekly_country4": "European Union",
 	"weekly_person": "person",
 	"weekly_check": "Check Ins",
-	"weekly_inc": "Fırsat Şunları İçerir:",
-	"weekly_inc1": "5 Günlük Gezi > Otel Dahil",
-	"weekly_inc2": "Uçak Faturası Dahil",
-	"weekly_inc3": "Günlük Ziyaret Edilecek Yerler",
-	"weekly_btn": "Rezervasyon Yap"
+	"weekly_info": "Fırsat Şunları İçerir:",
+	"weekly_info1": "5 Günlük Gezi > Otel Dahil",
+	"weekly_info2": "Uçak Faturası Dahil",
+	"weekly_info3": "Günlük Ziyaret Edilecek Yerler",
+	"weekly_btn": "Rezervasyon Yap",
+
+	"visa_title": "Vize desteği",
+	"visa_subtitle": "Uzman vize desteğimizle stressiz seyahat deneyimi yaşayın. Sorunsuz bir yolculuk için kusursuz yardım ve kapsamlı rehberlik sağlıyoruz",
+	"visa_country1": "Avrupa (Schengen)",
+	"visa_country2": "Hindistan",
+	"visa_country3": "Japonya",
+	"visa_country4": "Suudi Arabistan",
+	"visa_country5": "Umman",
+	"visa_country6": "Çin",
+	"visa_country7": "Hong Kong",
+	"visa_info": "Vize Destek hizmetimizin avantajları:",
+	"visa_info1": "En İyi Fiyatlar",
+	"visa_info2": "Kısa İşlem Süresi",
+	"visa_info3": "Güvenilir Yardım"
 }

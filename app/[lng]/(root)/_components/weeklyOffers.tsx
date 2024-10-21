@@ -37,12 +37,12 @@ const WeeklyOffers = () => {
 							key={carous.country}
 							className='py-3 md:basis-1/2 lg:basis-1/3'
 						>
-							<WeeklyCarousel {...carous} />
+							<WeeklyCarousel hide={true} {...carous} />
 						</CarouselItem>
 					))}
 				</CarouselContent>
-				<CarouselPrevious className='ml-10 mt-10' />
-				<CarouselNext className='mr-14 mt-10' />
+				<CarouselPrevious className='ml-10 mt-14' />
+				<CarouselNext className='mr-14 mt-14' />
 			</Carousel>
 		</div>
 	)
