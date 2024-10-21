@@ -29,6 +29,7 @@
     "react-cookie": "^7.2.1",
     "react-dom": "^18",
     "react-i18next": "^15.0.3",
+    "react-multi-carousel": "^2.8.5",
     "tailwind-merge": "^2.5.4",
     "tailwindcss-animate": "^1.0.7"
   },

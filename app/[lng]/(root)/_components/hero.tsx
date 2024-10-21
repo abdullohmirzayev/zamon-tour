@@ -64,7 +64,7 @@ const Hero = () => {
 		'rounded-full border border-primary p-2 lg:p-3 text-primary dark:border-white dark:text-white'
 
 	return (
-		<div className='relative h-[650px] w-full'>
+		<div className='relative h-[725px] w-full'>
 			{/* Carousel Display */}
 			<div className='size-full overflow-hidden'>
 				{carouselItems.map((item, index) => (
@@ -76,7 +76,7 @@ const Hero = () => {
 						style={{ backgroundImage: `url(${item.img})` }}
 					>
 						{/* Overlay content */}
-						<div className='flex size-full flex-col items-center'>
+						<div className='mx-auto flex size-full max-w-7xl flex-col items-center md:container'>
 							<div className='flex size-full flex-col items-center justify-start'>
 								<h2 className='mb-5 mt-36 text-center font-normal md:text-base lg:text-lg lg:font-medium xl:text-xl'>
 									{t('hero_main_title')}
