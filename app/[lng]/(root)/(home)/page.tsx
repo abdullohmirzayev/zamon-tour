@@ -1,5 +1,6 @@
 'use client'
 
+import ExploreDestinations from '../_components/exploreDestinations'
 import Hero from '../_components/hero'
 import VisaSuppoert from '../_components/visaSupport'
 import WeeklyOffers from '../_components/weeklyOffers'
@@ -10,6 +11,7 @@ function Page() {
 			<Hero />
 			<WeeklyOffers />
 			<VisaSuppoert />
+			<ExploreDestinations />
 		</div>
 	)
 }
