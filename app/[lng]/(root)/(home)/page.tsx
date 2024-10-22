@@ -3,6 +3,7 @@
 import ExploreDestinations from '../_components/exploreDestinations'
 import Hero from '../_components/hero'
 import VisaSuppoert from '../_components/visaSupport'
+import VisitOne from '../_components/visitOne'
 import WeeklyOffers from '../_components/weeklyOffers'
 
 function Page() {
@@ -12,6 +13,7 @@ function Page() {
 			<WeeklyOffers />
 			<VisaSuppoert />
 			<ExploreDestinations />
+			<VisitOne />
 		</div>
 	)
 }

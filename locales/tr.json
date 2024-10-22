@@ -49,5 +49,24 @@
 	"explore_title_des1": "Tüm dünya",
 	"explore_title_des2": "Küresel Destinasyonlar",
 	"explore_des1": "Bir tren macerasına atılın ve dünya çapındaki destinasyonları keşfedin. İster pitoresk manzaralar, ister hareketli şehirler veya kültürel hazineler olsun, tren hizmetlerimiz dünyayı dolaşmak için benzersiz ve konforlu bir yol sunar. Kapsamlı demiryolu ağımız aracılığıyla erişebileceğiniz farklı kültürlerin güzelliğine dalın.",
-	"explore_des2": "Bir hava macerasına atılın ve dünya çapındaki destinasyonları keşfedin. Nefes kesen manzaralar, canlı şehirler veya kültürel hazineler olsun, havayolu hizmetlerimiz dünyayı dolaşmak için rahat ve heyecan verici bir yol sunar. Kapsamlı hava seyahati ağımız aracılığıyla kolayca erişebileceğiniz çeşitli kültürlerin zenginliğine dalın."
+	"explore_des2": "Bir hava macerasına atılın ve dünya çapındaki destinasyonları keşfedin. Nefes kesen manzaralar, canlı şehirler veya kültürel hazineler olsun, havayolu hizmetlerimiz dünyayı dolaşmak için rahat ve heyecan verici bir yol sunar. Kapsamlı hava seyahati ağımız aracılığıyla kolayca erişebileceğiniz çeşitli kültürlerin zenginliğine dalın.",
+
+	"visit_main_title": "Hemen Ülkelerimizden Birini Ziyaret Edin",
+	"visit_main_subtitle": "Her şehirde sizin için özel olarak hazırlanmış en iyi teklifleri keşfedin. Tasarruf dünyasına dalın ve eşsiz deneyimlerin tadını çıkarın.",
+
+	"visit_title1": "Dubai",
+	"visit_title2": "Antalya",
+	"visit_title3": "Şarm El-Şeyh",
+	"visit_title4": "İstanbul",
+	"visit_title_des1": "Birleşik Arap Emirlikleri",
+	"visit_title_des2": "Türkiye",
+	"visit_title_des3": "Mısır",
+	"visit_title_des4": "Türkiye",
+	"visit_des1": "Dubai, Birleşik Arap Emirlikleri'nde lüks alışveriş, ultra modern mimari ve canlı bir gece hayatı sahnesi. 830 metre yüksekliğindeki Burj Khalifa gökdelenlerle dolu ufuk çizgisine hakimdir. Ayağında müzikle koreografisi yapılmış jetler ve ışıklarla Dubai Çeşmesi yer alır. Kıyıdan hemen açıktaki yapay adalarda su ve deniz hayvanları parklarına sahip bir tatil yeri olan Atlantis, The Palm vardır.",
+	"visit_des2": "Antalya, Türkiye'nin en hızlı büyüyen şehridir ve dünyanın dört bir yanından gelen turistler harika plajların ve geleneksel Türk kültürünün muhteşem karışımını keşfediyorlar. Çocuklar, Aqua Land (su kaydırağı tutkunlarının rüyası) ve Dolphin Land'in (yunuslar, deniz aslanları ve beyaz balinaların evi) bulunduğu Beach Park'ı çok sevecekler. Eski şehir merkezini keşfetmeyi ve Hadrian Kapısı'nı görmeyi unutmayın.",
+	"visit_des3": "Şarm El Şeyh, Sina Yarımadası'ndaki turizm hareketinin merkezidir ve dünyanın en iyi dalış noktalarına sahiptir. Özellikle, Şarm şehrini bambaşka bir seviyeye taşıyan Ras Muhammed milli parkının su altı harikaları. Şehirde, dünyanın dört bir yanından hem ileri düzey hem de amatör dalgıçların Kızıldeniz'in derinliklerindeki eşsiz deniz yaşamını keşfetmelerini sağlayan dalış ve gemi enkazı alanları bulunmaktadır.",
+	"visit_des4": "İstanbul, Türkiye'nin en kalabalık şehri ve kültürel, ekonomik ve tarihi merkezidir. Türkiye'nin kuzeybatı kesiminde yer alır ve Marmara Denizi ile Karadeniz'i birbirine bağlayan Boğaz ile Avrupa ve Asya yakası olarak ikiye ayrılır. Dünyada iki kıtada bulunan tek şehirdir.",
+	"visit_people": "Milyon Kişi",
+	"visit_area": "km2",
+	"visit_need": "Yol Tarifi Gerekli"
 }
