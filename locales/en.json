@@ -78,5 +78,11 @@
 	
 	"book_title": "Book Prefered Deal Here",
 	"book_subtitle": "Make Your Reservation",
-	"book_btn": "Discover More"
+	"book_btn": "Discover More",
+
+
+	"contactInfo_title1": "Make a Phone Call",
+	"contactInfo_title2": "Contact Us via Email",
+	"contactInfo_title3": "Visit Our Offices",
+	"contactInfo_subtitle": "15/25, Chilanzar - 9, Tashkent city"
 }

@@ -78,5 +78,10 @@
 
 	"book_title": "O'zingiz yoqtirganingizni tanlang",
 	"book_subtitle": "O'z joyingizni band qiling",
-	"book_btn": "Ko'proq Bilish.."
+	"book_btn": "Ko'proq Bilish..",
+
+	"contactInfo_title1": "Telefon raqam",
+	"contactInfo_title2": "Bizga email orqali bog'laning",
+	"contactInfo_title3": "Ofisimizga tashrif buyuring",
+	"contactInfo_subtitle": "15/25, Chilanzar - 9, Tashkent city"
 }

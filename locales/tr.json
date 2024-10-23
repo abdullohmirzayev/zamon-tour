@@ -78,5 +78,10 @@
 
 	"book_title": "Burada Tercih Edilen Kitap Fırsatı",
 	"book_subtitle": "Rezervasyonunuzu Yapın",
-	"book_btn": "Daha Fazlasını Keşfedin"
+	"book_btn": "Daha Fazlasını Keşfedin",
+
+	"contactInfo_title1": "Telefon Görüşmesi Yapın",
+	"contactInfo_title2": "E-posta ile Bizimle İletişime Geçin",
+	"contactInfo_title3": "Ofislerimizi Ziyaret Edin",
+	"contactInfo_subtitle": "15/25, Chilanzar - 9, Taşkent şehri"
 }
