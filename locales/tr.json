@@ -68,5 +68,11 @@
 	"visit_des4": "İstanbul, Türkiye'nin en kalabalık şehri ve kültürel, ekonomik ve tarihi merkezidir. Türkiye'nin kuzeybatı kesiminde yer alır ve Marmara Denizi ile Karadeniz'i birbirine bağlayan Boğaz ile Avrupa ve Asya yakası olarak ikiye ayrılır. Dünyada iki kıtada bulunan tek şehirdir.",
 	"visit_people": "Milyon Kişi",
 	"visit_area": "km2",
-	"visit_need": "Yol Tarifi Gerekli"
+	"visit_need": "Yol Tarifi Gerekli",
+
+	"best_main_title": "En İyi Yerler",
+	"best_main_subtitle": "Her şehirdeki en iyi teklifleri keşfedin, sadece sizin için derlendi. Tasarruf dünyasına dalın ve eşsiz deneyimlerin tadını çıkarın.",
+	"best_country": "Paris",
+	"best_population": "Nüfus: ",
+	"best_m": "Milyon"
 }

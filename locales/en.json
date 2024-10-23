@@ -54,7 +54,6 @@
 
 	"visit_main_title": "Visit One Of Our Countries Now",
 	"visit_main_subtitle": "Discover the best offers in each city, curated just for you. Immerse yourself in a world of savings and indulge in unparalleled experiences.",
-
 	"visit_title1": "Dubai",
 	"visit_title2": "Antalya",
 	"visit_title3": "Sharm El-Sheikh",
@@ -69,5 +68,11 @@
 	"visit_des4": "Istanbul is the most populous city in Turkey and its cultural, economic and historic center. It is located in north-western part of Turkey, divided into European and Asian side by Bosphorus, which connects the Sea of Marmara and Black Sea. It is the only city in the world that sits on two continents.",
 	"visit_people": "Mil People",
 	"visit_area": "km2",
-	"visit_need": "Need Directions"
+	"visit_need": "Need Directions",
+
+	"best_main_title": "Best Locations",
+	"best_main_subtitle": "Discover the best offers in each city, curated just for you. Immerse yourself in a world of savings and indulge in unparalleled experiences.",
+	"best_country": "Paris",
+	"best_population": "Population: ",
+	"best_m": "Mil"
 }
