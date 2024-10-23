@@ -1,6 +1,7 @@
 'use client'
 
 import BestLocation from '../_components/bestLocations'
+import BookPrefered from '../_components/bookPrefered'
 import ExploreDestinations from '../_components/exploreDestinations'
 import Hero from '../_components/hero'
 import VisaSuppoert from '../_components/visaSupport'
@@ -16,6 +17,7 @@ function Page() {
 			<VisaSuppoert />
 			<VisitOne />
 			<BestLocation />
+			<BookPrefered />
 		</div>
 	)
 }

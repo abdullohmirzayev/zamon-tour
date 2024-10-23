@@ -43,7 +43,7 @@ export default function ExampleComponent() {
 	const t = useTranslate()
 
 	return (
-		<div className='container mx-auto flex max-w-6xl flex-col items-center overflow-hidden py-3 text-center'>
+		<div className='container mx-auto flex max-w-6xl flex-col items-center overflow-hidden pb-10 pt-3 text-center'>
 			<SectionTitle
 				title={t('best_main_title')}
 				subtitle={t('best_main_subtitle')}
@@ -53,7 +53,9 @@ export default function ExampleComponent() {
 					<div
 						key={index}
 						className={`relative p-4 transition-all duration-500 ${
-							activeIndex === index ? 'h-96 w-52 md:w-72 lg:w-80' : 'h-96 w-16'
+							activeIndex === index
+								? 'h-96 w-52 md:w-72 lg:w-[30rem]'
+								: 'h-96 w-16'
 						}`}
 					>
 						<Image
