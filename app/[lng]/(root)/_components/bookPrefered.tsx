@@ -6,6 +6,7 @@ const BookPrefered = () => {
 
 	return (
 		<div
+			id='contacts'
 			className='overflow-hidden bg-cover bg-center bg-no-repeat pb-48 pt-64 text-center'
 			style={{ backgroundImage: 'url(/bookPrefered-bg.jpg)' }}
 		>

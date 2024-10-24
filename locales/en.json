@@ -75,14 +75,30 @@
 	"best_country": "Paris",
 	"best_population": "Population: ",
 	"best_m": "Mil",
-	
+
 	"book_title": "Book Prefered Deal Here",
 	"book_subtitle": "Make Your Reservation",
 	"book_btn": "Discover More",
 
-
 	"contactInfo_title1": "Make a Phone Call",
 	"contactInfo_title2": "Contact Us via Email",
 	"contactInfo_title3": "Visit Our Offices",
-	"contactInfo_subtitle": "15/25, Chilanzar - 9, Tashkent city"
+	"contactInfo_subtitle": "15/25, Chilanzar - 9, Tashkent city",
+
+	"contact_title1": "Make Your ",
+	"contact_title2": "Reservation",
+	"contact_title3": " Through",
+	"contact_name": "Your Name",
+	"contact_name_example": "Ex. John Smithee",
+	"contact_phone": "Your Phone Number",
+	"contact_phone_example": "Ex. +99899 999 99 99",
+	"contact_guests": "Number Of Guests",
+	"contact_guests_example": "ex. 3 or 4 or 5",
+	"contact_date": "Check In Date",
+	"contact_destination": "Choose Your Destination",
+	"contact_country": "Kuala Lumpur",
+	"contact_choose": "Choose Your Visa Support",
+	"contact_country1": "Country",
+	"contact_btn": "Make Your Reservation Now",
+	"modal_text": "Thank you for your request. We will contact you soon."
 }

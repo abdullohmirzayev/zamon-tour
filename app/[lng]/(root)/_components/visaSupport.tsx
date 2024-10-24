@@ -15,7 +15,7 @@ const VisaSuppoert = () => {
 
 	return (
 		<>
-			<div className='mx-auto max-w-6xl overflow-hidden py-12'>
+			<div id='tours' className='mx-auto max-w-6xl overflow-hidden py-12'>
 				<div className='flex flex-col items-center justify-center px-4 text-center sm:px-6 lg:px-8'>
 					<SectionTitle title={t('visa_title')} subtitle={t('visa_subtitle')} />
 				</div>

@@ -8,7 +8,7 @@ const ExploreDestinations = () => {
 	const t = useTranslate()
 
 	return (
-		<div className='container mx-auto flex max-w-6xl flex-col overflow-hidden py-9'>
+		<div id='about' className='container mx-auto flex max-w-6xl flex-col overflow-hidden py-9'>
 			<SectionTitle
 				title={t('explore_main_title')}
 				subtitle={t('explore_main_subtitle')}

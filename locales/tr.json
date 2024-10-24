@@ -83,5 +83,22 @@
 	"contactInfo_title1": "Telefon Görüşmesi Yapın",
 	"contactInfo_title2": "E-posta ile Bizimle İletişime Geçin",
 	"contactInfo_title3": "Ofislerimizi Ziyaret Edin",
-	"contactInfo_subtitle": "15/25, Chilanzar - 9, Taşkent şehri"
+	"contactInfo_subtitle": "15/25, Chilanzar - 9, Taşkent şehri",
+
+	"contact_title1": "Yerinizi ",
+	"contact_title2": "ayırtın",
+	"contact_title3": " ",
+	"contact_name": "Adınız",
+	"contact_name_example": "John Smithee",
+	"contact_phone": "Telefon Numaranız",
+	"contact_phone_example": "+99899 999 99 99",
+	"contact_guests": "Misafir Sayısı",
+	"contact_guests_example": "3 veya 4 veya 5",
+	"contact_date": "Giriş Tarihi",
+	"contact_destination": "Hedefinizi Seçin",
+	"contact_country": "Kuala Lumpur",
+	"contact_choose": "Vize Desteğinizi Seçin",
+	"contact_country1": "Ülke",
+	"contact_btn": "Hemen Rezervasyonunuzu Yapın",
+	"modal_text": "Talebiniz için teşekkür ederiz. Yakında sizinle iletişime geçeceğiz."
 }

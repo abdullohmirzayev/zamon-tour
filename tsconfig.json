@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/[lng]/(root)/_components/visitOne.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/[lng]/(root)/_components/visitOne.tsx", "app/[lng]/(root)/_components/contact.jsx"],
   "exclude": ["node_modules"]
 }

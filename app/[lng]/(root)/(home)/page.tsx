@@ -2,6 +2,7 @@
 
 import BestLocation from '../_components/bestLocations'
 import BookPrefered from '../_components/bookPrefered'
+import Contact from '../_components/contact'
 import ContactInfo from '../_components/contactInfo'
 import ExploreDestinations from '../_components/exploreDestinations'
 import Hero from '../_components/hero'
@@ -20,6 +21,7 @@ function Page() {
 			<BestLocation />
 			<BookPrefered />
 			<ContactInfo />
+			<Contact />
 		</div>
 	)
 }

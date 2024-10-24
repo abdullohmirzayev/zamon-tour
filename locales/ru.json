@@ -86,5 +86,22 @@
 	"contactInfo_title1": "Совершите телефонный звонок",
 	"contactInfo_title2": "Электронной почте",
 	"contactInfo_title3": "Посетите наши офисы",
-	"contactInfo_subtitle": "15/25, Чиланзар - 9, город Ташкент"
+	"contactInfo_subtitle": "15/25, Чиланзар - 9, город Ташкент",
+
+	"contact_title1": "Оформите ваше ",
+	"contact_title2": "бронирование",
+	"contact_title3": " через эту форму",
+	"contact_name": "Ваше имя",
+	"contact_name_example": "Например, Иван Иванов",
+	"contact_phone": "Ваш номер телефона",
+	"contact_phone_example": "Например, +xxx xxx xxx",
+	"contact_guests": "Количество гостей",
+	"contact_guests_example": "например, 3",
+	"contact_date": "Дата заезда",
+	"contact_destination": "Выберите ваш пункт назначения",
+	"contact_country": "Куала-Лумпур",
+	"contact_choose": "Выберите свою визовую поддержку",
+	"contact_country1": "Страна",
+	"contact_btn": "Забронировать сейчас",
+	"modal_text": "Спасибо за ваше обращение. Мы свяжемся с вами в ближайшее время."
 }

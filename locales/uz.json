@@ -83,5 +83,22 @@
 	"contactInfo_title1": "Telefon raqam",
 	"contactInfo_title2": "Bizga email orqali bog'laning",
 	"contactInfo_title3": "Ofisimizga tashrif buyuring",
-	"contactInfo_subtitle": "15/25, Chilanzar - 9, Tashkent city"
+	"contactInfo_subtitle": "15/25, Chilanzar - 9, Tashkent city",
+
+	"contact_title1": "O'z joyingizni ",
+	"contact_title2": "band",
+	"contact_title3": " qiling",
+	"contact_name": "Ismingiz",
+	"contact_name_example": "John Smithee",
+	"contact_phone": "Telefon raqamingiz",
+	"contact_phone_example": "+99899 999 99 99",
+	"contact_guests": "Necha kishisiz",
+	"contact_guests_example": "ex. 3 or 4 or 5",
+	"contact_date": "Uchish sanasi",
+	"contact_destination": "Manzilingizni tanlang",
+	"contact_country": "Kuala Lumpur",
+	"contact_choose": "Visa turini tanlang",
+	"contact_country1": "Davlatlar",
+	"contact_btn": "Band qilish",
+	"modal_text": "Murojaatingiz uchun rahmat. Tez orada sizga aloqaga chiqamiz."
 }
