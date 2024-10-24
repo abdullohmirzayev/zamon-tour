@@ -2,13 +2,17 @@ import SectionTitle from '@/components/shared/sectionTitle'
 import { Button } from '@/components/ui/button'
 import useTranslate from '@/hooks/use-translate'
 import Image from 'next/image'
+import Link from 'next/link'
 import React from 'react'
 
 const ExploreDestinations = () => {
 	const t = useTranslate()
 
 	return (
-		<div id='about' className='container mx-auto flex max-w-6xl flex-col overflow-hidden py-9'>
+		<div
+			id='about'
+			className='container mx-auto flex max-w-6xl flex-col overflow-hidden py-9'
+		>
 			<SectionTitle
 				title={t('explore_main_title')}
 				subtitle={t('explore_main_subtitle')}
@@ -34,9 +38,11 @@ const ExploreDestinations = () => {
 						</p>
 					</div>
 					<div className='px-6 pb-2'>
-						<Button variant={'castum'} size={'castum'}>
-							{t(item.btn)}
-						</Button>
+						<Link href={'#contacts'}>
+							<Button variant={'castum'} size={'castum'}>
+								{t(item.btn)}
+							</Button>
+						</Link>
 					</div>
 				</div>
 			))}

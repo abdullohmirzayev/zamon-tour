@@ -3,6 +3,7 @@ import { Button } from '@/components/ui/button'
 import useTranslate from '@/hooks/use-translate'
 import { ArrowRight, Globe, Home, User } from 'lucide-react'
 import Image from 'next/image'
+import Link from 'next/link'
 import React from 'react'
 
 const VisitOne = () => {
@@ -47,15 +48,18 @@ const VisitOne = () => {
 						</div>
 
 						<hr />
-
-						<div className='mt-2 hidden cursor-pointer text-primary md:flex'>
-							{t('visit_need')} <ArrowRight className='' />
-						</div>
+						<Link href={'#contacts'}>
+							<div className='mt-2 hidden cursor-pointer text-primary md:flex'>
+								{t('visit_need')} <ArrowRight className='' />
+							</div>
+						</Link>
 					</div>
 					<div className='px-6 pb-2'>
-						<Button variant={'castum'} size={'castum'}>
-							{t(item.btn)}
-						</Button>
+						<Link href={'#contacts'}>
+							<Button variant={'castum'} size={'castum'}>
+								{t(item.btn)}
+							</Button>
+						</Link>
 					</div>
 				</div>
 			))}

@@ -103,5 +103,12 @@
 	"contact_choose": "Выберите свою визовую поддержку",
 	"contact_country1": "Страна",
 	"contact_btn": "Забронировать сейчас",
-	"modal_text": "Спасибо за ваше обращение. Мы свяжемся с вами в ближайшее время."
+	"modal_text": "Спасибо за ваше обращение. Мы свяжемся с вами в ближайшее время.",
+
+	"footer_title": "Ищите, куда поехать? ",
+	"footer_subtitle": "Зарезервируйте, кликнув по кнопке",
+	"footer_btn": "Забронируйте сейчас",
+	"footer_text1": "Copyright © ",
+	"footer_text2": ". Zamon Business Tour",
+	"footer_text3": ". All rights reserved."
 }

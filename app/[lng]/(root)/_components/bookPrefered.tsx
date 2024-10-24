@@ -1,5 +1,6 @@
 import { Button } from '@/components/ui/button'
 import useTranslate from '@/hooks/use-translate'
+import Link from 'next/link'
 
 const BookPrefered = () => {
 	const t = useTranslate()
@@ -16,14 +17,15 @@ const BookPrefered = () => {
 				<h2 className='mb-7 text-3xl font-bold md:text-4xl lg:text-5xl'>
 					{t('book_subtitle')}
 				</h2>
-
-				<Button
-					variant={'castum'}
-					size={'castum'}
-					className='dark:hover:bg-white/70'
-				>
-					{t('book_btn')}
-				</Button>
+				<Link href={'#contacts'}>
+					<Button
+						variant={'castum'}
+						size={'castum'}
+						className='dark:hover:bg-white/70'
+					>
+						{t('book_btn')}
+					</Button>
+				</Link>
 			</div>
 		</div>
 	)

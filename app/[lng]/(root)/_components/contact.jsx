@@ -77,7 +77,7 @@ const Contact = () => {
 				></iframe>
 			</div>
 
-			<div className='p-6'>
+			<div className='bg-[#eaeaea] p-6 dark:bg-background'>
 				{/* Reservation Form */}
 				<h2 className='mb-4 text-center text-2xl font-semibold'>
 					{t('contact_title1')}
@@ -196,7 +196,7 @@ const Contact = () => {
 								variant={'castum'}
 								size={'castum'}
 								type='submit'
-								className='mt-3 w-full rounded-md p-2 text-white transition duration-300'
+								className='mt-3 w-full rounded-md p-2 transition duration-300'
 							>
 								{loading ? <>{t('contact_btn')}...</> : <>{t('contact_btn')}</>}
 							</Button>

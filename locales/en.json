@@ -100,5 +100,12 @@
 	"contact_choose": "Choose Your Visa Support",
 	"contact_country1": "Country",
 	"contact_btn": "Make Your Reservation Now",
-	"modal_text": "Thank you for your request. We will contact you soon."
+	"modal_text": "Thank you for your request. We will contact you soon.",
+
+	"footer_title": "Are You Looking To Travel ?",
+	"footer_subtitle": "Make A Reservation By Clicking The Button",
+	"footer_btn": "Book Yours Now",
+	"footer_text1": "Copyright © ",
+	"footer_text2": ". Zamon Business Tour",
+	"footer_text3": ". All rights reserved."
 }

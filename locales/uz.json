@@ -100,5 +100,12 @@
 	"contact_choose": "Visa turini tanlang",
 	"contact_country1": "Davlatlar",
 	"contact_btn": "Band qilish",
-	"modal_text": "Murojaatingiz uchun rahmat. Tez orada sizga aloqaga chiqamiz."
+	"modal_text": "Murojaatingiz uchun rahmat. Tez orada sizga aloqaga chiqamiz.",
+
+	"footer_title": "Sayohat qilishni xohlaysizmi?",
+	"footer_subtitle": "Unda biz bilan hoziroq bog'laning",
+	"footer_btn": "Bog'lanish",
+	"footer_text1": "Copyright © ",
+	"footer_text2": ". Zamon Business Tour",
+	"footer_text3": ". All rights reserved."
 }

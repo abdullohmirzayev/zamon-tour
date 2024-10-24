@@ -13,6 +13,7 @@ import {
 } from 'lucide-react'
 import useTranslate from '@/hooks/use-translate'
 import { Button } from '../ui/button'
+import Link from 'next/link'
 
 const WeeklyCarousel = (carous: ICoursel) => {
 	const t = useTranslate()
@@ -63,9 +64,11 @@ const WeeklyCarousel = (carous: ICoursel) => {
 					{carous.hide ? <Building2Icon /> : <Check />}
 					{carous.hide ? `${t('weekly_info3')}` : `${t('visa_info3')}`}
 				</p>
-				<Button variant={'castum'} size={'lg'}>
-					{t('weekly_btn')}
-				</Button>
+				<Link href={'#contacts'} className='w-full'>
+					<Button variant={'castum'} size={'lg'} className='w-full'>
+						{t('weekly_btn')}
+					</Button>
+				</Link>
 			</div>
 		</Card>
 	)

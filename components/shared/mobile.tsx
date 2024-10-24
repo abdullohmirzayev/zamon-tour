@@ -1,5 +1,6 @@
 'use client'
 
+import { useState } from 'react'
 import { Sheet, SheetContent, SheetHeader, SheetTrigger } from '../ui/sheet'
 import { Button } from '../ui/button'
 import { AlignCenter } from 'lucide-react'
@@ -14,17 +15,20 @@ import ModeToggle from './mode-toggle'
 
 const Mobile = () => {
 	const t = useTranslate()
+	const [open, setOpen] = useState(false)
+
+	const closeModal = () => setOpen(false)
 
 	return (
-		<Sheet>
+		<Sheet open={open} onOpenChange={setOpen}>
 			<SheetTrigger asChild className='flex md:hidden'>
-				<Button size={'icon'} variant={'ghost'}>
+				<Button size={'icon'} variant={'ghost'} onClick={() => setOpen(true)}>
 					<AlignCenter />
 				</Button>
 			</SheetTrigger>
 			<SheetContent side={'top'}>
 				<SheetHeader>
-					<Link href={'/'} className='flex items-center'>
+					<Link href={'/'} className='flex items-center' onClick={closeModal}>
 						<Image
 							src={'/logo.svg'}
 							alt='logo'
@@ -41,6 +45,7 @@ const Mobile = () => {
 							href={nav.id}
 							key={nav.id}
 							className='flex h-12 cursor-pointer items-center gap-2 rounded-sm px-3 transition-colors hover:bg-blue-400/20'
+							onClick={closeModal}
 						>
 							<nav.icon className='size-5' />
 							<span>{t(nav.name)}</span>

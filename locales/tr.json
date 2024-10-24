@@ -100,5 +100,12 @@
 	"contact_choose": "Vize Desteğinizi Seçin",
 	"contact_country1": "Ülke",
 	"contact_btn": "Hemen Rezervasyonunuzu Yapın",
-	"modal_text": "Talebiniz için teşekkür ederiz. Yakında sizinle iletişime geçeceğiz."
+	"modal_text": "Talebiniz için teşekkür ederiz. Yakında sizinle iletişime geçeceğiz.",
+
+	"footer_title": "Seyahat Etmeyi mi Düşünüyorsunuz?",
+	"footer_subtitle": "Düğmeye Tıklayarak Rezervasyon Yapın",
+	"footer_btn": "Hemen Rezervasyonunuzu Yapın",
+	"footer_text1": "Copyright © ",
+	"footer_text2": ". Zamon Business Tour",
+	"footer_text3": ". All rights reserved."
 }

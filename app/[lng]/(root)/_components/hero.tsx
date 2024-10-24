@@ -2,6 +2,7 @@ import * as React from 'react'
 import { Button } from '@/components/ui/button' // Importing ShadCN Button
 import { ChevronLeft, ChevronRight, Globe, House, User } from 'lucide-react' // Using Lucide-react Icons
 import useTranslate from '@/hooks/use-translate'
+import Link from 'next/link'
 
 // Sample carousel items
 const carouselItems = [
@@ -84,9 +85,11 @@ const Hero = () => {
 								<h1 className='mb-7 text-2xl font-bold md:text-3xl lg:text-4xl xl:text-5xl'>
 									{t(item.title)}
 								</h1>
-								<Button variant={'castum'} size={'castum'}>
-									{t('hero_btn')}
-								</Button>
+								<Link href={'#contacts'}>
+									<Button variant={'castum'} size={'castum'}>
+										{t('hero_btn')}
+									</Button>
+								</Link>
 							</div>
 							<div className='mb-8 flex w-[95%] flex-wrap justify-center gap-5 rounded-xl bg-white px-8 py-5 text-black dark:bg-primary sm:rounded-2xl sm:px-12 sm:py-6 md:mb-24 md:rounded-3xl md:px-14 md:py-7 lg:mb-32 lg:w-4/5 lg:justify-between lg:rounded-full lg:px-16 lg:py-8'>
 								<div className='flex'>
@@ -123,13 +126,15 @@ const Hero = () => {
 									</span>
 								</div>
 								<div className='flex'>
-									<Button
-										variant={'castum'}
-										size={'castum'}
-										className='bg-primary dark:bg-white hover:dark:bg-white/80'
-									>
-										{t('explore_btn')}
-									</Button>
+									<Link href={'#contacts'}>
+										<Button
+											variant={'castum'}
+											size={'castum'}
+											className='bg-primary dark:bg-white hover:dark:bg-white/80'
+										>
+											{t('explore_btn')}
+										</Button>
+									</Link>
 								</div>
 							</div>
 						</div>

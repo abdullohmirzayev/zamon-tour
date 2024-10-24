@@ -5,6 +5,7 @@ import BookPrefered from '../_components/bookPrefered'
 import Contact from '../_components/contact'
 import ContactInfo from '../_components/contactInfo'
 import ExploreDestinations from '../_components/exploreDestinations'
+import Footer from '../_components/footer'
 import Hero from '../_components/hero'
 import VisaSuppoert from '../_components/visaSupport'
 import VisitOne from '../_components/visitOne'
@@ -22,6 +23,7 @@ function Page() {
 			<BookPrefered />
 			<ContactInfo />
 			<Contact />
+			<Footer />
 		</div>
 	)
 }
